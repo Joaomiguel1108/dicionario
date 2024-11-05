@@ -1,0 +1,3 @@
+divionario = {}
+
+print(divionario)
