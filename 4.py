@@ -1,5 +1,5 @@
 dicionario = {"jogo":"elden ring", "personagem": "antedeguemom", "filme":"clube da luta"}
 
-dici = dicionario["jogo"]
+dicionario["jogo2"] == ["stardew valley"]
 
-print(dici)
+print(dicionario)
